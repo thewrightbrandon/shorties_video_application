@@ -129,6 +129,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+shorties_venv
+shorties_venv/
 
 # Spyder project settings
 .spyderproject
